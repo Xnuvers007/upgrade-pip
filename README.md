@@ -8,7 +8,8 @@ pip install upgrade-pip
 
 first you need to install it "pip install upgrade-pip"
 
-type this in terminal / cmd
+# usage
 
-upgrade-pip
-
+  > from start import startupgradepip
+  
+  > startupgradepip()
