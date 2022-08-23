@@ -7,6 +7,10 @@
 ![Closed Issue](https://img.shields.io/github/issues-closed/Xnuvers007/upgrade-pip)
 ![Repo Size](https://img.shields.io/github/repo-size/xnuvers007/upgrade-pip)
 ![Download](https://img.shields.io/github/downloads/Xnuvers007/upgrade-pip/total)
+![Pypi version](https://img.shields.io/pypi/v/upgrade-pip)
+![Release Github](https://img.shields.io/github/v/release/xnuvers007/upgrade-pip)
+![Last Commit](https://img.shields.io/github/last-commit/Xnuvers007/upgrade-pip)
+![Release Date](https://img.shields.io/github/release-date/xnuvers007/upgrade-pip)
 
 
 # UPGRADE-PIP
