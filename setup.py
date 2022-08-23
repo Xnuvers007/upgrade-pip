@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.1.0'
+VERSION = '0.1.2'
 DESCRIPTION = 'upgrade packages pip outdated'
 LONG_DESCRIPTION = 'A package that allows to upgrade all pip python outdated.'
 
@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=[],
-    keywords=['python', 'pip', 'packages', 'update', 'outdated', 'internet'],
+    keywords=['python', 'pip', 'packages', 'update', 'outdated', 'internet','programmer','developer','upgrade','upgradepip','programming'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
@@ -30,5 +30,12 @@ setup(
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
+        "Operating System :: POSIX :: Linux",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Utilities",
+        "License :: OSI Approved :: GNU/GPL License",
+        "Natural Language :: English",
+        "Natural Language :: Indonesian",
+        "Natural Language :: Bahasa Indonesia"
     ]
 )
