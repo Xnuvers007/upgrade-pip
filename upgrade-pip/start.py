@@ -15,6 +15,8 @@ def startupgradepip():
     [+] Donate : https://saweria.co/xnuvers007
     [+] Donate 2 : https://trakteer.id/Xnuvers007
         ''')
+    localtime = time.asctime(time.localtime(time.time()))
+    print("\n[+] Current time :", localtime,"\n")
     if platform=="win32":
         print("checking for update / outdated pip packages")
         print("it will take 5-10 minutes for checking\n")
