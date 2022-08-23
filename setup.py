@@ -37,3 +37,4 @@ setup(
         "Natural Language :: Indonesian"
     ]
 )
+
