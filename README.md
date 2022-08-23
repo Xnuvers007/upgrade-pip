@@ -38,6 +38,6 @@ Wikipedia upgrade-pip
 
 # Copyright
 
-<h1> © 2022 Xnuvers007 - All Rights Reserved. </h1>
+### © 2022 Xnuvers007 - All Rights Reserved.
 
 [![Stargazers over time](https://starchart.cc/Xnuvers007/upgrade-pip.svg)](https://starchart.cc/Xnuvers007/upgrade-pip)
