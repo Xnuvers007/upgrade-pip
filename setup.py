@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.1.2'
+VERSION = '0.1.2A'
 DESCRIPTION = 'upgrade packages pip outdated'
 LONG_DESCRIPTION = 'A package that allows to upgrade all pip python outdated.'
 
