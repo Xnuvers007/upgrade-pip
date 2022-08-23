@@ -30,6 +30,12 @@ first you need to install it "pip install upgrade-pip"
   > startupgradepip()
 
 
+# See Upgrade-pip Wiki :)
+
+Wikipedia upgrade-pip
+
+[See More in Here](https://github.com/Xnuvers007/upgrade-pip/wiki)
+
 # Copyright
 
 <h1> © 2022 Xnuvers007 - All Rights Reserved. </h1>
