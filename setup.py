@@ -33,9 +33,7 @@ setup(
         "Operating System :: POSIX :: Linux",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities",
-        "License :: OSI Approved :: GNU/GPL License",
         "Natural Language :: English",
-        "Natural Language :: Indonesian",
-        "Natural Language :: Bahasa Indonesia"
+        "Natural Language :: Indonesian"
     ]
 )
