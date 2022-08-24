@@ -19,6 +19,8 @@ this is packages for upgrade all packages python if packages has been outdated
 
 pip install upgrade-pip
 
+**REASON TO UPDATE THIS REPOSITORY BECAUSE** [HERE](https://github.com/Xnuvers007/upgrade-pip/security/advisories/GHSA-xvgr-6rpf-f62q)
+
 # how to use
 
 first you need to install it "pip install upgrade-pip"
