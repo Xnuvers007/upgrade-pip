@@ -27,8 +27,8 @@ first you need to install it "pip install upgrade-pip"
 
 https://github.com/Xnuvers007/upgrade-pip
 
-** NOTE : OLDER VERSION CANNOT TO USE IT <= 0.1.3.post1**
-** Using this version 0.1.4 **
+**NOTE : OLDER VERSION CANNOT TO USE IT <= 0.1.3.post1**
+**Using this version 0.1.4**
 
 # usage
 
