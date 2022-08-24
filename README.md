@@ -25,9 +25,9 @@ first you need to install it "pip install upgrade-pip"
 
 # usage
 
-  > from start import startupgradepip
+  > import uppip
   
-  > startupgradepip()
+  > uppip.startupgradepip()
 
 
 # See Upgrade-pip Wiki :)
