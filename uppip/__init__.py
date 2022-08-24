@@ -1,3 +1,4 @@
+#from start import startupgradepip
 # Upgrade pip python packages from outdated
 
 import sys, os, time
@@ -151,3 +152,9 @@ def startupgradepip():
         else:
             print("platform not supported")
             sys.exit(1)
+
+# def main():
+#     startupgradepip()
+
+# if __name__ == "__main__":
+#     main()
